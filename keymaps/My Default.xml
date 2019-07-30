@@ -36,12 +36,6 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
-  <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-  </action>
-  <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control button1" />
   </action>
