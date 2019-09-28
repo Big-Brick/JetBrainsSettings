@@ -1,0 +1,78 @@
+<keymap version="1" name="My Default Linux" parent="Mac OS X 10.5+">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="ChangeSignature" />
+  <action id="ChangesView.SetDefault" />
+  <action id="CodeCompletion" />
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="alt f6" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Move" />
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Run" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="Vcs.QuickListPopupAction" />
+</keymap>
