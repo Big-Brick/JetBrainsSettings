@@ -1,0 +1,12 @@
+<keymap version="1" name="Default iShit" parent="Mac OS X 10.5+">
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="Move" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+</keymap>
