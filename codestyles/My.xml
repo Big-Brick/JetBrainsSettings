@@ -39,6 +39,9 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CMake">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
