@@ -33,15 +33,15 @@
     <option name="GENERATE_ADDITIONAL_EQ_OPERATORS" value="false" />
     <option name="GENERATE_ADDITIONAL_REL_OPERATORS" value="false" />
   </Objective-C>
-  <Objective-C-extensions>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <files>
     <extensions>
       <pair source="cpp" header="hpp" fileNamingConvention="NONE" />
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
-  </Objective-C-extensions>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
+  </files>
   <codeStyleSettings language="CMake">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
