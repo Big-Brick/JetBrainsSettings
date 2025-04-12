@@ -1,5 +1,18 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="BraceOrQuoteOut" />
+  <action id="EditorChooseLookupItemReplace">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorIndentSelection" />
+  <action id="ExpandLiveTemplateByTab" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="NextParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="SearchEverywhere.CompleteCommand" />
+  <action id="SearchEverywhere.NextTab" />
+  <action id="SplitChooser.NextWindow" />
 </keymap>
