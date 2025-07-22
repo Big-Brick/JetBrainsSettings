@@ -40,6 +40,7 @@
     <extensions>
       <pair source="cpp" header="hpp" fileNamingConvention="NONE" />
       <pair source="c" header="h" fileNamingConvention="NONE" />
+      <pair source="cc" header="hh" fileNamingConvention="NONE" />
     </extensions>
   </files>
   <codeStyleSettings language="CMake">
