@@ -2,5 +2,21 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
+    <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <option name="HEX_FORMATTING_ENABLED" value="true" />
+          <macOS-symbol-settings />
+          <nt-symbol-settings />
+          <option name="RENDERERS_ENABLED" value="false" />
+          <option name="SHOW_FRAME_MODULE_NAME" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
