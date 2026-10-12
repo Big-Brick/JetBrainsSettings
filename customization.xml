@@ -54,8 +54,18 @@
     <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+    </group>
     <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
+    </group>
+    <group value="CodeWithMeToolbarGroupNewUi" is_group="true" forse_popup="false" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
     </group>
     <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="2">
       <path value="root" />
@@ -63,12 +73,10 @@
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
     </group>
-    <group value="Git.Pull" is_action="true" action_type="1" position="1">
+    <group value="Git.Pull" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
-      <path value="CodeWithMe" />
-      <path value="Code With Me Popup" />
     </group>
     <action id="Git.Pull" icon="jar:file:/home/andrii/.local/share/JetBrains/Toolbox/apps/clion/lib/app-client.jar!/expui/toolbar/unknown.svg" />
   </component>
