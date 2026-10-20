@@ -1,0 +1,14 @@
+<application>
+  <component name="Debug Profiles">
+    <debug-profiles>
+      <debug-profile>
+        <option name="id" value="75063fd7-56aa-4bcc-b1e8-b6b956b00224" />
+        <option name="type" value="gdb" />
+        <option name="name" value="/usr/bin/gdb" />
+        <settings>
+          <option name="executable" value="/usr/bin/gdb" />
+        </settings>
+      </debug-profile>
+    </debug-profiles>
+  </component>
+</application>
